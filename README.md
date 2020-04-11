@@ -1,7 +1,18 @@
 # ANFaMAF 2020
 
-## Ejercicios de análisis numérico
+## Referencias
 
 - [Repo original](http://github.com/lbiedma/anfamaf2020)
-- [Lab1](lab1.ipynb)
-- [Lab2](lab2.ipynb)
+
+## Labs
+- [Lab 1: Intro](Labs/Lab 1.ipynb)
+- [Lab 2: Aproximación de raices](Labs/Lab 2.ipynb)
+
+## Contenido
+
+Cada Lab contiene:
+
+- Consigna en PDF
+- Jupyter Notebook
+- Python
+
