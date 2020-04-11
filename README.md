@@ -6,7 +6,7 @@
 
 ## Labs
 - [Lab 1: Intro](Labs/Lab%201)
-- [Lab 2: Aproximación de raices](Labs/Lab%C2%A02)
+- [Lab 2: Aproximación de raices](Labs/Lab%202)
 
 ## Contenido
 
