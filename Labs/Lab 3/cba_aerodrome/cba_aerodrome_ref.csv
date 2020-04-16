@@ -1,0 +1,11 @@
+T	Temperatura media anual
+TM	Temperatura máxima media anual
+Tm	Temperatura mínima media anual
+PP	Precipitación total anual de lluvia y/o nieve derretida (mm)
+V	Velocidad media anual del viento (Km/h)
+RA	Total días con lluvia durante el año
+SN	Total días que nevó durante el año
+TS	Total días con tormenta durante el año
+FG	Total días con niebla durante el año
+TN	Total días con tornados o nubes de embudo durante el año
+GR	Total días con granizo durante el año
