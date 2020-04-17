@@ -28,6 +28,15 @@
         - [Método de Newton](https://en.wikipedia.org/wiki/Newton%27s_method) 
         - [Método de iteración de punto fijo](https://es.wikipedia.org/wiki/Método_del_punto_fijo)
 
+- [Lab 3: Interpolación y Spline cúbico](Labs/Lab%201)
+    - [Consigna](Labs/Lab%203/Consigna.pdf)
+    - [Notebook](Labs/Lab%203/Lab%203.ipynb)
+    - TODO: Código
+    - Temas
+        - Método de Lagrange
+        - Método de diferencias divididas de Newton
+        - Spline cúbico
+
 ## Contenido
 
 Cada carpeta Lab contiene:
