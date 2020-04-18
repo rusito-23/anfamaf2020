@@ -31,7 +31,7 @@
 - [Lab 3: Interpolación y Spline cúbico](Labs/Lab%201)
     - [Consigna](Labs/Lab%203/Consigna.pdf)
     - [Notebook](Labs/Lab%203/Lab%203.ipynb)
-    - TODO: Código
+    - [Código](Labs/Lab%203/Code)
     - Temas
         - Método de Lagrange
         - Método de diferencias divididas de Newton
