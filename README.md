@@ -37,6 +37,16 @@
         - Método de diferencias divididas de Newton
         - Spline cúbico
 
+## Parciales
+
+- [Parcial 1](Parcial)
+    - [Código](Parcial/Parcial01)
+    - [Consigna](Parcial/Parcial01.pdf)
+    - Temas:
+        - Fibonacci
+        - Cálculo de raices con Newton y Steffensen
+        - Cálculo de error de interpolación del coseno con Lagrange
+
 ## Contenido
 
 Cada carpeta Lab contiene:
