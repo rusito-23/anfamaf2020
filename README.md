@@ -25,6 +25,10 @@
     - [Consigna](Labs/Lab%204/Consigna.pdf)
     - [Notebook](Labs/Lab%204/Lab%204.ipynb)
 
+- [Lab 5: Integración numérica](Labs/Lab%205)
+    - [Consigna](Labs/Lab%205/Consigna.pdf)
+    - [Notebook](Labs/Lab%205/Lab%205.ipynb)
+
 ## Parciales
 
 - [Parcial 1](Parcial)
