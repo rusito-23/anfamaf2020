@@ -29,6 +29,14 @@
     - [Consigna](Labs/Lab%205/Consigna.pdf)
     - [Notebook](Labs/Lab%205/Lab%205.ipynb)
 
+- [Lab 6: Solución de sistemas de ecuaciones lineales](Labs/Lab%206)
+    - [Consigna](Labs/Lab%206/Consigna.pdf)
+    - [Notebook](Labs/Lab%206/Lab%206.ipynb)
+
+- [Lab 7: Programación lineal](Labs/Lab%207)
+    - [Consigna](Labs/Lab%207/Consigna.pdf)
+    - [Notebook](Labs/Lab%207/Lab%207.ipynb)
+
 ## Parciales
 
 - [Parcial 1](Parcial)
