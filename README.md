@@ -32,5 +32,5 @@
 ## Parciales
 
 - [Parcial 1](Parcial)
-    - [Código](Parcial/Parcial01)
-    - [Consigna](Parcial/Parcial01.pdf)
+    - [Código](Parcial/Parcial%201)
+    - [Consigna](Parcial/Parcial%201/Parcial%201.pdf)
