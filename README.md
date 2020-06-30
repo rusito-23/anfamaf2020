@@ -39,6 +39,11 @@
 
 ## Parciales
 
-- [Parcial 1](Parcial)
+- [Parcial 1](Parcial/Parcial%201)
     - [Código](Parcial/Parcial%201)
     - [Consigna](Parcial/Parcial%201/Parcial%201.pdf)
+
+- [Parcial 2](Parcial/Parcial%202)
+    - [Código](Parcial/Parcial%202)
+    - [Consigna](Parcial/Parcial%202/Parcial%202.pdf)
+    - [Informe](Parcial/Parcial%202/Informe.pdf)
